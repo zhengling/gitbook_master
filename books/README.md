@@ -12,7 +12,7 @@ This includes books owned by the authenticated user, books where the authenticat
 GET /books
 ```
 
-##### Parameters
+##### Parameters Miracle
 
 | Name | Type | Description |
 | ---- | ---- | ----------- |
