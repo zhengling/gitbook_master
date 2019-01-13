@@ -13,7 +13,7 @@
                     "name": "Go"
                 }
             ],
-            "split": true
+            "split": false
         }
     }
 }
