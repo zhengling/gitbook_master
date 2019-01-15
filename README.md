@@ -1,5 +1,5 @@
 # GitBook API Reference
-
+&#10084;
 This documentation is intended to get you up-and-running with the GitBook APIs. We’ll cover everything you need to know, from authentication, to manipulating results, to combining results with other services.
 
 The REST APIs provide programmatic access to read and write GitBook data. List books, edit content, proofread text, and more. The REST API identifies users using basic auth; responses are available in JSON.
